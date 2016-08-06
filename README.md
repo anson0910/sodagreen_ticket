@@ -95,5 +95,5 @@
 19. 最後，若是希望有票時同時播放音樂做提醒，請將11、12行前的#字號刪除，變成<br>
 `webbrowser.open("https://www.youtube.com/watch?v=c9e-80s3kOY&t=1m")` <br>
 `time.sleep(2.2)` <br> 
-20. 中止程式請於下圖左方紅色框框處連續點選兩次即可！
+20. 中止程式請於下圖左方紅色框框處連續點選兩次即可！<br>
 ![My image](img/pycharm_stop.jpg)
