@@ -68,7 +68,7 @@ if __name__ == '__main__':
     driver = init_driver(driver_position, 4)
     got_ticket = False
     reset_driver = False
-    should_notify_user = True
+    should_notify_user = False
     prev_time = 0
     curr_time = 0
     count = 0
