@@ -41,6 +41,8 @@
 `webbrowser.open("https://www.youtube.com/watch?v=c9e-80s3kOY&t=1m")` <br>
 `time.sleep(2.2)` <br> <br>
 
+16. 中止程式請於 terminal連續輸兩 ctrl + c 即可！
+
 ### Mac 使用者操作步驟
 1. 點選本頁面右側的 Clone or download，選擇 Download ZIP，並於解壓縮後將 **mail_functions.py** 及 **try_webpage.py** 檔案放於家目錄底下。
 2. 打開terminal (終端機)，並依序輸入 （以下步驟若有要求輸入密碼，請輸入電腦密碼）<br>
@@ -59,7 +61,7 @@
 ![My image](img/pycharm_open.jpg)<br>
 請選擇第一步所下載並解壓縮完畢的資料夾 （應該包含 **mail_functions.py** 及 **try_webpage.py**），並點選確認。 <br>
 6. 於左上角點選資料夾名稱，並選擇 **mail_functions.py** 檔案
-![My image](img/mail_functions.jpg)<br>
+![My image](img/mail_func.jpg)<br>
 7. 出現程式碼後，請將 30、31行的 gmail_user, gmail_pwd 修改為自己的 gmail 帳號密碼。<br>
 8. 同時按住 ctrl+shift+F10 執行檔案。 <br>
 9. 假如出現 Error，即代表尚未允許 低安全性應用程式的存取權限，應該會收到來自 Google 的信件，如下圖
@@ -73,7 +75,7 @@
 11. 請稍等片刻後再次嘗試第八步，就會成功收到自己寄給自己的測試郵件了！<br>
 
 12. 接著於左上角點選資料夾名稱，並選擇 **try_webpage.py** 檔案
-![My image](img/try_webpage.jpg)<br>
+![My image](img/try_web.jpg)<br>
 13. 此時應該會看到 3 - 6 行的 selenium 字底下出現紅線，此時請將滑鼠游標移至紅線處，就會出現紅色燈泡，此時點選選單之 Install package selenium 即可。此時，紅線應該消失。
 ![My image](img/import_sele.jpg)<br>
 
@@ -92,4 +94,5 @@
  若要繼續搶票，請再次 ctrl+shift+F10 執行檔案。
 19. 最後，若是希望有票時同時播放音樂做提醒，請將11、12行前的#字號刪除，變成<br>
 `webbrowser.open("https://www.youtube.com/watch?v=c9e-80s3kOY&t=1m")` <br>
-`time.sleep(2.2)` <br> <br>
+`time.sleep(2.2)` <br> <br
+20. 中止程式請於下圖左方紅色框框處連續點選兩次即可！
