@@ -8,8 +8,8 @@ from selenium.common.exceptions import TimeoutException
 import mail_functions
 
 def notify_user(url):
-    # webbrowser.open("https://www.youtube.com/watch?v=c9e-80s3kOY&t=1m")
-    # time.sleep(2.2)
+    #webbrowser.open("https://www.youtube.com/watch?v=c9e-80s3kOY&t=1m")
+    #time.sleep(2.2)
     webbrowser.open(url)
     print("No alert found")
 
