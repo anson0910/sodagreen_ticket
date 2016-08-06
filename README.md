@@ -55,7 +55,7 @@
 1. 點選本頁面右側的 Clone or download，選擇 Download ZIP，並於解壓縮後將資料夾存於任意位置。
 2. 於此[載點](http://chromedriver.storage.googleapis.com/index.html?path=2.23%2F)下載 chromedriver_win32 壓縮檔。<br>
 3. 壓縮檔解壓縮後，將 **chromedriver.exe** 檔案放於 C 槽底下。
-4. 於此[載點](https://www.python.org/downloads/release/python-2712)下載相對應的 python interpreter (Windows x86 MSI installer)，並完成安裝。
+4. 於此[載點](https://www.python.org/ftp/python/2.7.12/Python-2.7.12.tar.xz)下載相對應的 python interpreter (Windows x86 MSI installer)，並完成安裝。
 5. 於此[載點](https://www.jetbrains.com/pycharm/download/#section=windows) 點選Community 的 Download 按鈕下載並安裝 PyCharm 編譯器。<br> 當被詢問以下資訊時，請選擇第三個選項。
 ![My image](img/pycharm_no_prev.jpg)<br>
 6. 開啟 PyCharm 編譯器，並在以下畫面選擇 Open <br>
