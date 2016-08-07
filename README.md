@@ -77,7 +77,7 @@
 
 13. 接著於左上角點選資料夾名稱，並選擇 **try_webpage.py** 檔案
 ![My image](img/try_web.jpg)<br>
-14. 此時應該會看到 3 - 6 行的 selenium 字底下出現紅線，此時請將滑鼠游標移至紅線處，就會出現紅色燈泡，此時點選選單之 Install package selenium 即可。此時，紅線應該消失。
+14. 此時應該會看到 3 - 6 行的 selenium 字底下出現紅線，請將滑鼠游標移至紅線處，就會出現紅色燈泡，再點選選單之 Install package selenium 即可。此時，紅線應該消失。
 ![My image](img/import_sele.jpg)<br>
 
 15. 61行處即顯示您想要搶的場次，可於此處進行更改 （刪除無法前往之場次）<br>
